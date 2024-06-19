@@ -1,1 +1,1 @@
-This implements gradient descent in python
+This Folder contains files for the Gradient Descent lab
